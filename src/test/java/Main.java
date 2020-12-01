@@ -5,6 +5,6 @@ public class Main {
 
         System.out.println("第一个程序开始");
 
-        System.out.println("第二次提交");
+        System.out.println("第二次提交 第二次提交");
     }
 }
